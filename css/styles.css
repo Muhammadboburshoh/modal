@@ -24,8 +24,12 @@ img {
   height: auto;
 }
 
-.modal-wrapper {
+/* .modal-wrapper {
   width: 400px;
   height: 400px;
   background: #ffff99;
+} */
+
+.modal-wrapper {
+  display: none;
 }
