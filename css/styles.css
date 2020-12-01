@@ -23,3 +23,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.modal-wrapper {
+  width: 400px;
+  height: 400px;
+  background: #ffff99;
+}
